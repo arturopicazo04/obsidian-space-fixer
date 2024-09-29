@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-space-fixer",
+    "name": "Space Fixer",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "Reemplaza automáticamente dobles espacios con un solo espacio.",
+    "author": "arturopicazo",
+    "authorUrl": "https://github.com/arturopicazo04",
+    "isDesktopOnly": false
+  }
+  
